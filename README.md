@@ -15,7 +15,7 @@
     <li><strong>Automatic alert</strong> when battery hits 100%</li>
     <li><strong>Custom ringtone</strong> and vibration notification</li>
     <li>Shows charging type: USB / AC / Wireless</li>
-    <li><strong>"Stop Ringing"</strong> button to stop alarm</li>
+    <li><strong>Stop Ringing</strong> button to stop alarm</li>
     <li>Clean UI with visible battery status</li>
     <li>Lightweight and easy-to-use</li>
   </ul>
